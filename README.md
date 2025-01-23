@@ -1,8 +1,8 @@
 Hello 👋
+Im Front End Developer
 ===============================
 
-Front End Developer
--------------------
+
 
 I have been practicing front-end development for approximately two years and currently work in a product-based startup. My role involves designing and developing responsive, optimized web pages tailored to specific requirements. I have hands-on experience with OAuth authentication, role-based access control, Google Maps API integration, and payment gateway implementation. My focus is on delivering user-friendly interfaces and maintaining high performance across applications.
 
