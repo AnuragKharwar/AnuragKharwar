@@ -1,12 +1,11 @@
 Hello 👋
-Im Front End Developer
+I'm Front End Developer
 ===============================
-
-
+Great to see you...
 
 I have been practicing front-end development for approximately two years and currently work in a product-based startup. My role involves designing and developing responsive, optimized web pages tailored to specific requirements. I have hands-on experience with OAuth authentication, role-based access control, Google Maps API integration, and payment gateway implementation. My focus is on delivering user-friendly interfaces and maintaining high performance across applications.
 
-* 🌍  I'm based in Pune, Maharastra
+* 🌍  I'm based in Gujarat. 
 * 🖥️  See my portfolio at [MyPortfolio](http://anuragkharwarportfolio.netlify.app/)
 * ✉️  You can contact me at [anuragkharwarwork@gmail.com](mailto:anuragkharwarwork@gmail.com)
 * 🚀  I'm currently working on [IDS](http://https://idssoft.com/)
