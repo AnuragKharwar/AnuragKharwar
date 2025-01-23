@@ -1,4 +1,4 @@
-Hi 👋 My name is Anurag Kharwar
+Hello 👋
 ===============================
 
 Front End Developer
