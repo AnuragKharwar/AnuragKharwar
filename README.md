@@ -1,8 +1,10 @@
 👋 Hi, I'm Anurag Kharwar
+
 Front-End Developer | React | Next.js | TypeScript
+
 🚀 Passionate about building high-performance, user-friendly web applications. With two years of experience, I specialize in designing and developing responsive, optimized, and scalable web solutions.
 
-💼 Currently working at IDS in a product-based startup, where I integrate OAuth authentication, role-based access control, Google Maps API, and payment gateways into dynamic web applications.
+💼 Currently working at IDS in a product-based startup..
 
 💡 Currently learning Java Core, Spring Boot, and DevOps to expand my technical expertise.
 
