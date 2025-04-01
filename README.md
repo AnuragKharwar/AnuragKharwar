@@ -1,5 +1,3 @@
-👋 Hi, I'm Anurag Kharwar
-
 Front-End Developer | React | Next.js | TypeScript
 
 🚀 Passionate about building high-performance, user-friendly web applications. With two years of experience, I specialize in designing and developing responsive, optimized, and scalable web solutions.
