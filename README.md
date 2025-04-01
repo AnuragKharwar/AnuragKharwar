@@ -5,11 +5,14 @@ Great to see you...
 
 I have been practicing front-end development for approximately two years and currently working in a product-based startup. My role involves designing and developing responsive, optimized web pages tailored to specific requirements. I have hands-on experience with OAuth authentication, role-based access control, Google Maps API integration, and payment gateway implementation. My focus is on delivering user-friendly interfaces and maintaining high performance across applications.
 
-* 🌍  I'm based in Gujarat. 
-* ✉️  You can contact me at [anuragkharwarwork@gmail.com](mailto:anuragkharwarwork@gmail.com)
-* 🚀  I'm currently working on [IDS](http://https://idssoft.com/)
-* 🧠  I'm learning Java core,Spring boot and Devops.
-* 🤝  I'm open to collaborating on any interesting web App
+💼 Currently working at IDS in a product-based startup, where I integrate OAuth authentication, role-based access control, Google Maps API, and payment gateways into dynamic web applications.
+
+💡 Currently learning Java Core, Spring Boot, and DevOps to expand my technical expertise.
+
+🤝 Open to collaborating on innovative web applications that solve real-world problems.
+
+📍 Based in Gujarat, India
+📧 Reach me at anuragkharwarwork@gmail.com
 
 ### Skills
 
