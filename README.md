@@ -1,9 +1,6 @@
-Hello 👋
-I'm Front End Developer
-===============================
-Great to see you...
-
-I have been practicing front-end development for approximately two years and currently working in a product-based startup. My role involves designing and developing responsive, optimized web pages tailored to specific requirements. I have hands-on experience with OAuth authentication, role-based access control, Google Maps API integration, and payment gateway implementation. My focus is on delivering user-friendly interfaces and maintaining high performance across applications.
+👋 Hi, I'm Anurag Kharwar
+Front-End Developer | React | Next.js | TypeScript
+🚀 Passionate about building high-performance, user-friendly web applications. With two years of experience, I specialize in designing and developing responsive, optimized, and scalable web solutions.
 
 💼 Currently working at IDS in a product-based startup, where I integrate OAuth authentication, role-based access control, Google Maps API, and payment gateways into dynamic web applications.
 
