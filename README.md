@@ -8,7 +8,7 @@ I have been practicing front-end development for approximately two years and cur
 * 🌍  I'm based in Gujarat. 
 * ✉️  You can contact me at [anuragkharwarwork@gmail.com](mailto:anuragkharwarwork@gmail.com)
 * 🚀  I'm currently working on [IDS](http://https://idssoft.com/)
-* 🧠  I'm learning React-native and Devops
+* 🧠  I'm learning Java core,Spring boot and Devops.
 * 🤝  I'm open to collaborating on any interesting web App
 
 ### Skills
