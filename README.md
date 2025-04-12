@@ -1,17 +1,7 @@
-Front-End Developer | React | Next.js | TypeScript
+Front-End Developer | React | Next.js | JavaScript
 
-🚀 Passionate about building high-performance, user-friendly web applications. With two years of experience, I specialize in designing and developing responsive, optimized, and scalable web solutions.
 
-💼 Currently working at IDS in a product-based startup..
-
-💡 Currently learning Java Core, Spring Boot, and DevOps to expand my technical expertise.
-
-🤝 Open to collaborating on innovative web applications that solve real-world problems.
-
-📍 Based in Gujarat, India
-📧 Reach me at anuragkharwarwork@gmail.com
-
-### Skills
+### Technologies
 
 
 <p align="left">
